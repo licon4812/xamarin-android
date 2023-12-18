@@ -1,3 +1,6 @@
+using Android.App;
+using Android.OS;
+using AndroidX.Leanback;
 namespace AndroidApp1;
 
 [Activity(Label = "@string/app_name", MainLauncher = true)]
